@@ -1,0 +1,9 @@
+README.md
+setup.py
+csv2shp/__init__.py
+csv2shp/csv2shp.py
+csv2shp.egg-info/PKG-INFO
+csv2shp.egg-info/SOURCES.txt
+csv2shp.egg-info/dependency_links.txt
+csv2shp.egg-info/requires.txt
+csv2shp.egg-info/top_level.txt
