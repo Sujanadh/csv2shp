@@ -1,6 +1,6 @@
 # csv2shp
 
-csv2shp is a Python tool for converting CSV data to Shapefile format. It can automatically detect and convert latitude and longitude columns or process WKT geometries in your CSV files. CSV file should have latitude , longitude columns or Geometry column as WKT field or x y column.
+csv2shp is a Python tool for converting CSV data to Shapefile format. It can automatically detect and convert latitude and longitude columns or process WKT geometries in your CSV files. CSV file should have latitude , longitude columns or Geometry column as WKT field.
 
 ## Installation
 
